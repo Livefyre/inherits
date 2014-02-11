@@ -2,7 +2,7 @@
   "name": "inherits",
   "version": "0.0.0",
   "main": [
-    "./src/main.js"
+    "./inherits.js"
   ],
   "dependencies": {
     "requirejs": "~2.1.5"
