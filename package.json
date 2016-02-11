@@ -18,5 +18,8 @@
     "postinstall": "./node_modules/bower/bin/bower install",
     "start": "./node_modules/http-server/bin/http-server .",
     "hint": "./node_modules/jshint/bin/jshint inherits.js; echo"
+  },
+  "browserify": {
+    "transform": ["deamdify"]
   }
 }
